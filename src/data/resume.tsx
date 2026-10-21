@@ -4,7 +4,7 @@ import { House, Briefcase, FileText, Library } from "lucide-react";
 export const DATA = {
   name: "Apurba Rath",
   initials: "AR",
-  url: "https://apurba-portfolio.vercel.app",
+  url: "https://apurba-portfolio-drab.vercel.app",
   location: "Hyderabad, India",
   locationLink: "https://www.google.com/maps/place/Hyderabad,+Telangana,+India",
   description:

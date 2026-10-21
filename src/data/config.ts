@@ -3,7 +3,7 @@ export const CONFIG = {
   // Site Settings
   // ---------------------------------------------------------------------------
   site: {
-    url: "https://apurba-portfolio.vercel.app",
+    url: "https://apurba-portfolio-drab.vercel.app",
     locale: "en_US",
     twitterHandle: "@apurbar",
   },
